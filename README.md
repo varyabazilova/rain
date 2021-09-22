@@ -1,3 +1,4 @@
 # rain
 
-does it really only rain on the weekends in oslo?
+SeNorge precipitation data from (Lussana et al., 2019) groped by weekday 
+
